@@ -1,0 +1,7 @@
+# Build and release artifacts are attached to GitHub Releases
+/dist/
+*.zip
+
+# Local files
+*.log
+.DS_Store
