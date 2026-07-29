@@ -3,6 +3,7 @@
 Quality-of-life mod for Retro Rewind - Video Store Simulator that fixes held
 inventory scrolling and keeps VHS tapes organized.
 
+[Nexus Mods](https://www.nexusmods.com/retrorewindvideostoresimulator/mods/273) |
 [Releases](https://github.com/fenomelini/better-hand-inventory/releases) |
 [Issues](https://github.com/fenomelini/better-hand-inventory/issues)
 
