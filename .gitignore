@@ -2,6 +2,9 @@
 /dist/
 *.zip
 
+# Reverse-engineering workspace and cooked game assets
+/analysis/
+
 # Local files
 *.log
 .DS_Store
